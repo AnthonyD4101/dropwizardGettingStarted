@@ -1,0 +1,37 @@
+# Gradle
+.gradle
+build/
+
+# Ignore Gradle wrapper files
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+
+# Maven
+target/
+
+# General
+.idea/
+*.iml
+*.class
+*.log
+*.jar
+*.war
+*.ear
+
+# Eclipse
+.project
+.classpath
+.csettings/
+.settings/
+
+# IntelliJ IDEA
+*.ipr
+*.iws
+*.idea/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
