@@ -18,3 +18,7 @@
      - Run `java -jar build/libs/getting-started-1.0-SNAPSHOT-all.jar server hello-world.yml` to run Gradle-built helloWorld application
 
 3. Docker Learning (deploy project through Docker)
+   - Designed to automent deployment, scaling and management of applications using containerization
+   - Containers provide a lightweight and efficient environment for applications, allowing developers to package applications and their dependencies into a container
+   - Dockerfile contains series of instructions on how to build a Docker image
+     - Run `docker run -p 8080:8080 java-app` to run application's docker image
